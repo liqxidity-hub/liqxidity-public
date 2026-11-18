@@ -1,9 +1,11 @@
 {
-  "generated": "2026-11-18T11:41:37+00:00",
+  "generated": "2026-11-18T13:00:01+00:00",
   "revenue_total": {
     "ZAR": 98295
   },
-  "expenses": null,
+  "expenses": {
+    "USD": 2000
+  },
   "businesses": [
     {
       "name": "JobSea Technologies",
