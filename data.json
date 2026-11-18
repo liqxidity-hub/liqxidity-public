@@ -1,10 +1,11 @@
 {
-  "generated": "2026-11-18T14:00:01+00:00",
+  "generated": "2026-11-18T22:00:04+00:00",
   "revenue_total": {
     "ZAR": 98295
   },
   "expenses": {
-    "USD": 10000
+    "USD": 10000,
+    "ZAR": 18400
   },
   "businesses": [
     {
