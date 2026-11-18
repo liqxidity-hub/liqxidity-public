@@ -1,0 +1,30 @@
+{
+  "generated": "2026-11-18T10:29:40+00:00",
+  "revenue_total": {
+    "ZAR": 98295
+  },
+  "expenses": null,
+  "businesses": [
+    {
+      "name": "JobSea Technologies",
+      "status": "live",
+      "stage": "Performance monitoring",
+      "revenue": {
+        "ZAR": 98295
+      }
+    },
+    {
+      "name": "Roblox Game Lab",
+      "status": "building",
+      "stage": "Prototype",
+      "revenue": null
+    },
+    {
+      "name": "YouTube Clipping",
+      "status": "live",
+      "stage": "Validation",
+      "revenue": null
+    }
+  ],
+  "notes": "Actual money received, from Liqxidity's own ledger. No forecasts. Figures not yet recorded are shown as not recorded."
+}
